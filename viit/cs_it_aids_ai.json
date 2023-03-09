@@ -1,1 +1,262 @@
-{"0":{"title":"Advanced Data Structures"},"1":{"title":"Acounting and Economics for engineers"},"2":{"title":"Acounting and Economics for engineers"},"3":{"title":"Artificail intelligence"},"4":{"title":"basics of security and stock marketing"},"5":{"title":"Big data Analytics"},"6":{"title":"Biomedical instruments"},"7":{"title":"Cloud computing"},"8":{"title":"Compiler design"},"9":{"title":"Computer Graphics"},"10":{"title":"Computer networks"},"11":{"title":"Computer organization"},"12":{"title":"Constitution of india"},"13":{"title":"Cyber laws"},"14":{"title":"Data Communications and networking","url":""},"15":{"title":"Data Structures","url":"https://drive.google.com/drive/folders/1ihBoNO6ijG7YGOEIEZRJbLMR0oAzm4PO?usp=share_link"},"16":{"title":"Data warehousing and data mining"},"17":{"title":"Data base management"},"18":{"title":"Design and analysis of algorithms"},"19":{"title":"Devops tools and sre"},"20":{"title":"Digital logic design"},"21":{"title":"Disaster management"},"22":{"title":"Discrete mathematical structures","url":"https://drive.google.com/drive/folders/1cAzEqCZPTJjuKiXY6GhLaQlIY8lDk4bh?usp=share_link"},"23":{"title":"distributed operating system"},"24":{"title":"E commers"},"25":{"title":"Electrical safety management"},"26":{"title":"Embedded systems -1"},"27":{"title":"Embedded systems - 2"},"28":{"title":"Enterpreneurial finance"},"29":{"title":"Entrepreneurshuip and small business management"},"30":{"title":"Evironmental chemistry"},"31":{"title":"Environmental studies","url":"https://drive.google.com/drive/folders/17dHZSkxfPjUEtEvZ8bOvkc2GrTQqz6dz?usp=share_link"},"32":{"title":"Formal launguage and automata theory"},"33":{"title":"Fundamentals of queing theory"},"34":{"title":"Green Buildings and infrastructure"},"35":{"title":"human computer interaction"},"36":{"title":"Human values and professional ethics"},"37":{"title":"Image processing"},"38":{"title":"Information retrieval system"},"39":{"title":"Information security"},"40":{"title":"Information storage and security management"},"41":{"title":"Information storage system"},"42":{"title":"Intellectual property right and patents"},"43":{"title":"Internet of things"},"44":{"title":"Introduction to machine learning"},"45":{"title":"Management science"},"46":{"title":"Managerial economics and financial analysis"},"47":{"title":"Middleware technologies"},"48":{"title":"Mobile communications"},"49":{"title":"Multi core programming"},"50":{"title":"Multimedia and application development"},"51":{"title":"Multimedia systems"},"52":{"title":"Natural launguage processing"},"53":{"title":"Nosql databases"},"54":{"title":"Object oriented analysis & design"},"55":{"title":"Object oriented programming through java","url":"https://drive.google.com/drive/folders/1w79Hiyd82TzcZ1dUfk731kx3bkdYY1Pw?usp=share_link"},"56":{"title":"operating systems","url":"https://drive.google.com/drive/folders/1w1ghXfr8qiHc7642qieXjHGWBwhVRvue?usp=share_link"},"57":{"title":"Organizational behaviour and human resource management"},"58":{"title":"Principle of digital signal processing"},"59":{"title":"principles of programming launguages"},"60":{"title":"principle of wireless sensor networks"},"61":{"title":"Propability , statistics and numerical methods"},"62":{"title":"Project management"},"63":{"title":"Psychology"},"64":{"title":"Random variable and numerical methods"},"65":{"title":"Renewable sources of energy"},"66":{"title":"Scripting languages"},"67":{"title":"Service oriented architecture"},"68":{"title":"Social networks"},"69":{"title":"Software engineering"},"70":{"title":"Software Project management"},"71":{"title":"Software testing"},"72":{"title":"Switching theory and logic design"},"73":{"title":"Uml design patterns"},"74":{"title":"Unix and shell programming"},"75":{"title":"Unix network programming"},"76":{"title":"Virtual reality"},"77":{"title":"web programming"},"78":{"title":"wireless Communication"},"79":{"title":"Women entrepreneurship"},"80":{"title":"essential for compitative programming","url":"https://drive.google.com/drive/folders/1GK1e_UXeFYAiZ5oQa4P_fM5QOxbvUO6_?usp=share_link"}}
+{
+    "0": {
+        "title": "Advanced Data Structures",
+        "url": "https://drive.google.com/drive/folders/1VvNPTyE7PwnuoRjLJ19On6MIe3iIvYNo"
+   
+    },
+    "1": {
+        "title": "Acounting and Economics for engineers"
+    },
+    "2": {
+        "title": "Acounting and Economics for engineers"
+    },
+    "3": {
+        "title": "Artificail intelligence"
+    },
+    "4": {
+        "title": "basics of security and stock marketing"
+    },
+    "5": {
+        "title": "Big data Analytics"
+    },
+    "6": {
+        "title": "Biomedical instruments"
+    },
+    "7": {
+        "title": "Cloud computing"
+    },
+    "8": {
+        "title": "Compiler design"
+    },
+    "9": {
+        "title": "Computer Graphics"
+    },
+    "10": {
+        "title": "Computer networks"
+    },
+    "11": {
+        "title": "Computer organization"
+    },
+    "12": {
+        "title": "Constitution of india"
+    },
+    "13": {
+        "title": "Cyber laws"
+    },
+    "14": {
+        "title": "Data Communications and networking",
+        "url": ""
+    },
+    "15": {
+        "title": "Data Structures",
+        "url": "https://drive.google.com/drive/folders/1ihBoNO6ijG7YGOEIEZRJbLMR0oAzm4PO?usp=share_link"
+    },
+    "16": {
+        "title": "Data warehousing and data mining"
+    },
+    "17": {
+        "title": "Data base management",
+        "url": "https://drive.google.com/drive/folders/1kfNM2Cvf21lX2ffWSuIhXC6T__O3eFNY"
+   
+    },
+    "18": {
+        "title": "Design and analysis of algorithms"
+    },
+    "19": {
+        "title": "Devops tools and sre"
+    },
+    "20": {
+        "title": "Digital logic design"
+    },
+    "21": {
+        "title": "Disaster management"
+    },
+    "22": {
+        "title": "Discrete mathematical structures",
+        "url": "https://drive.google.com/drive/folders/1cAzEqCZPTJjuKiXY6GhLaQlIY8lDk4bh?usp=share_link"
+    },
+    "23": {
+        "title": "distributed operating system"
+    },
+    "24": {
+        "title": "E commers"
+    },
+    "25": {
+        "title": "Electrical safety management"
+    },
+    "26": {
+        "title": "Embedded systems -1"
+    },
+    "27": {
+        "title": "Embedded systems - 2"
+    },
+    "28": {
+        "title": "Enterpreneurial finance"
+    },
+    "29": {
+        "title": "Entrepreneurshuip and small business management"
+    },
+    "30": {
+        "title": "Evironmental chemistry"
+    },
+    "31": {
+        "title": "Environmental studies",
+        "url": "https://drive.google.com/drive/folders/17dHZSkxfPjUEtEvZ8bOvkc2GrTQqz6dz?usp=share_link"
+    },
+    "32": {
+        "title": "Formal launguage and automata theory",
+        "url": "https://drive.google.com/drive/folders/1Yy1awyT4ue7WsaDdfYQH-TFte0V4lUtt"
+   
+    },
+    "33": {
+        "title": "Fundamentals of queing theory"
+    },
+    "34": {
+        "title": "Green Buildings and infrastructure"
+    },
+    "35": {
+        "title": "human computer interaction"
+    },
+    "36": {
+        "title": "Human values and professional ethics"
+    },
+    "37": {
+        "title": "Image processing"
+    },
+    "38": {
+        "title": "Information retrieval system"
+    },
+    "39": {
+        "title": "Information security"
+    },
+    "40": {
+        "title": "Information storage and security management"
+    },
+    "41": {
+        "title": "Information storage system"
+    },
+    "42": {
+        "title": "Intellectual property right and patents"
+    },
+    "43": {
+        "title": "Internet of things"
+    },
+    "44": {
+        "title": "Introduction to machine learning"
+    },
+    "45": {
+        "title": "Management science"
+    },
+    "46": {
+        "title": "Managerial economics and financial analysis"
+    },
+    "47": {
+        "title": "Middleware technologies"
+    },
+    "48": {
+        "title": "Mobile communications"
+    },
+    "49": {
+        "title": "Multi core programming"
+    },
+    "50": {
+        "title": "Multimedia and application development"
+    },
+    "51": {
+        "title": "Multimedia systems"
+    },
+    "52": {
+        "title": "Natural launguage processing"
+    },
+    "53": {
+        "title": "Nosql databases"
+    },
+    "54": {
+        "title": "Object oriented analysis & design"
+    },
+    "55": {
+        "title": "Object oriented programming through java",
+        "url": "https://drive.google.com/drive/folders/1w79Hiyd82TzcZ1dUfk731kx3bkdYY1Pw?usp=share_link"
+    },
+    "56": {
+        "title": "operating systems",
+        "url": "https://drive.google.com/drive/folders/1w1ghXfr8qiHc7642qieXjHGWBwhVRvue?usp=share_link"
+    },
+    "57": {
+        "title": "Organizational behaviour and human resource management"
+    },
+    "58": {
+        "title": "Principle of digital signal processing"
+    },
+    "59": {
+        "title": "principles of programming launguages"
+    },
+    "60": {
+        "title": "principle of wireless sensor networks"
+    },
+    "61": {
+        "title": "Propability , statistics and numerical methods",
+        "url": "https://drive.google.com/drive/folders/1dlTqVrSyAOjyw99t-EcFoF091D0x3j9z"
+   
+    },
+    "62": {
+        "title": "Project management"
+    },
+    "63": {
+        "title": "Psychology"
+    },
+    "64": {
+        "title": "Random variable and numerical methods"
+    },
+    "65": {
+        "title": "Renewable sources of energy"
+    },
+    "66": {
+        "title": "Scripting languages"
+    },
+    "67": {
+        "title": "Service oriented architecture"
+    },
+    "68": {
+        "title": "Social networks"
+    },
+    "69": {
+        "title": "Software engineering",
+        "url": "https://drive.google.com/drive/folders/17dHZSkxfPjUEtEvZ8bOvkc2GrTQqz6dz?usp=share_link"
+   
+    },
+    "70": {
+        "title": "Software Project management"
+    },
+    "71": {
+        "title": "Software testing"
+    },
+    "72": {
+        "title": "Switching theory and logic design"
+    },
+    "73": {
+        "title": "Uml design patterns"
+    },
+    "74": {
+        "title": "Unix and shell programming"
+    },
+    "75": {
+        "title": "Unix network programming"
+    },
+    "76": {
+        "title": "Virtual reality"
+    },
+    "77": {
+        "title": "web programming"
+    },
+    "78": {
+        "title": "wireless Communication"
+    },
+    "79": {
+        "title": "Women entrepreneurship"
+    },
+    "80": {
+        "title": "essential for compitative programming",
+        "url": "https://drive.google.com/drive/folders/1GK1e_UXeFYAiZ5oQa4P_fM5QOxbvUO6_?usp=share_link"
+    }
+}
